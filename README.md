@@ -3,10 +3,15 @@ This project, Sharingan AI, is a real-time computer vision application that tran
 
 # Tech Stack
 Here are the 5 main technologies powering this project:
+
 Python – Core programming language
+
 OpenCV (cv2) – Image processing, real-time video capture, and rendering
+
 MediaPipe – Lightweight face detection and tracking library
+
 NumPy – Fast numerical operations for transformations and blending
+
 Math & Time Modules – For calculating smooth rotations and animations
 
 # How It Works
