@@ -24,3 +24,9 @@ A transparent PNG (top.png) is blended onto the background.
 Uses alpha blending to preserve smooth edges.
 5. Display:
 The final image (eye_img) is displayed in real-time with OpenCV.
+
+# Future Improvement
+Add multiple eye styles (Mangekyō, Rinnegan, Byakugan)
+Improve face tracking with iris detection
+Support gesture-based triggers (e.g., wink → activate effect)
+Export short video clips with Sharingan effect
